@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doprava Haleš</title>
+    <link>http://kontajneryhales.sk/</link>
+    <description>Recent content on Doprava Haleš</description>
+    <generator>Hugo</generator>
+    <language>sk-sk</language>
+    <atom:link href="http://kontajneryhales.sk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ochrana Udajov</title>
+      <link>http://kontajneryhales.sk/ochrana-udajov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://kontajneryhales.sk/ochrana-udajov/</guid>
+      <description>&lt;section id=&#34;gdpr&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;container&#34;&gt;&#x9;&#x9;&#x9;&#xD;&#xA;        &lt;h1&gt;Zásady ochrany osobných údajov&lt;/h1&gt;&#xD;&#xA;        &lt;p&gt;Vaše súkromie je pre nás dôležité. Táto webová stránka je statická, no používa niektoré externé služby, ktoré môžu spracovávať osobné údaje. V tejto časti vás informujeme o tom, aké údaje sú spracovávané a za akým účelom.&lt;/p&gt;&#xD;&#xA;        &lt;hr&gt;&#xD;&#xA;        &lt;h2&gt;1. Externé služby, ktoré používame&lt;/h2&gt;&#xD;&#xA;        &lt;h3&gt;Google Fonts&lt;/h3&gt;&#xD;&#xA;        &lt;p&gt;Na tejto stránke sú použité písma od spoločnosti Google (Google Fonts), ktoré sa načítavajú z externých serverov. Pri ich načítaní môže dôjsť k spracovaniu technických údajov, ako sú:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
